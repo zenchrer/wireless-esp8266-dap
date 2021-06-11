@@ -14,7 +14,7 @@
 #define WIFI_PASS "wwwwwwww"
 
 
-#define USE_STATIC_IP 1
+#define USE_STATIC_IP 0
 // If you don't want to specify the ip configuration, then ignore the following items.
 #define DAP_IP_ADDRESS 192, 168, 1, 123
 #define DAP_IP_GATEWAY 192, 168, 1, 1
